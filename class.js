@@ -12,9 +12,12 @@ const info2=newinfo("Frida","Rehman",4)
    console.log(info1);
   console.log(info2);
 
-----function----
-  function(n1,n2){
+
+
+---function---
+  (n1,n2)=>{
     return n1*n2
   }
-console.log(56,88);
+  console.log(55,88);
+
   </script>
