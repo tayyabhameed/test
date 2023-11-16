@@ -8,5 +8,7 @@ class in js
     }
   }
  const info1=newsnfo("Ahad","Asaf",2)
+const info2=newinfo("Frida","Rehman",4)
    console.log(info1);
+  console.log(info2);
   </script>
